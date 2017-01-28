@@ -1,5 +1,5 @@
 import numpy as np
-from ImplementingGradientDescent_DataPrep import features, targets, features_test, targets_test
+from data_prep import features, targets, features_test, targets_test
 
 
 def sigmoid(x):
