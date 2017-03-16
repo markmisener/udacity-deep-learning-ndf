@@ -32,3 +32,4 @@ wheels/
 # Specific filetypes
 *.CSV
 *DS_STORE
+*.zip
