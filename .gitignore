@@ -1,6 +1,13 @@
-# Specific directories
+# Specific directories and files
 notepad/
 fast-style-transfer/
+transfer-learning/flower_photos/
+transfer-learning/checkpoints/
+transfer-learning/tensorflow_vgg/
+transfer-learning/codes
+transfer-learning/requirements.txt
+cornell-movie-dialogs-corpus
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -33,3 +40,4 @@ wheels/
 *.CSV
 *DS_STORE
 *.zip
+*.tar.gz
