@@ -7,6 +7,7 @@ transfer-learning/tensorflow_vgg/
 transfer-learning/codes
 transfer-learning/requirements.txt
 cornell-movie-dialogs-corpus
+batch-norm/MNIST_data
 
 
 # Byte-compiled / optimized / DLL files
