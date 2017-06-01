@@ -8,6 +8,7 @@ transfer-learning/codes
 transfer-learning/requirements.txt
 cornell-movie-dialogs-corpus
 batch-norm/MNIST_data
+project_5/data
 
 
 # Byte-compiled / optimized / DLL files
